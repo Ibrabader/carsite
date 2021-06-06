@@ -3,10 +3,53 @@
   padding: 0;
   box-sizing: border-box;
 }
+header{
+background-color: #ffc233;
 
-header {
-background-color: #cc99ff;
+hight: 50px;
+
+}
+header3{
+  padding-top: 10px;
+}
+
+li a {
+
+  text-decoration: none;
+  float:right;
+  padding-top: 40px;
+}
+li {
+display: inline;
+  display: inline;
+  padding : 25px;
+  float:right;
+}
+nav {
+
+  padding-top: 25 px;
+
+}
+section{
+
+  padding-top: 40px;
+}
+p{
+  padding-top:  10px;
+  padding-bottom: 25px;
+}
+
+h3{
 
 
+  background-color: #fff0cc;
+  padding-bottom: 20px;
+}
+sedan {
+padding-top: 20px;
+}
 
+div{
+
+  padding-top: 25px;
 }
